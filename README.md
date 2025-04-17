@@ -1,8 +1,8 @@
-# Data Analysis Project: Age Impact on Baseball Performance
+## Data Analysis Project: Age Impact on Baseball Performance
 
-*Objective:* Investigated how age affects player performance (batting, pitching, salary) using statistical modeling and predictive analytics.<br>
-*Data Processing:* Cleaned and merged baseball datasets (player stats, salaries, demographics) in R and PySpark, handling missing values.<br>
-*Analysis:* Performed exploratory data analysis (EDA) and linear regression (70/30 train-test split) to evaluate age’s impact on key metrics (RBI, ERA, salary).<br>
+*Objective:* Investigated how age affects player performance (batting, pitching, salary) using statistical modeling and predictive analytics.<br><br>
+*Data Processing:* Cleaned and merged baseball datasets (player stats, salaries, demographics) in R and PySpark, handling missing values.<br><br>
+*Analysis:* Performed exploratory data analysis (EDA) and linear regression (70/30 train-test split) to evaluate age’s impact on key metrics (RBI, ERA, salary).<br><br>
 <br><br>
 *Findings:*
 Performance peaks in late 20s/early 30s, then declines (bell-curve trend).
