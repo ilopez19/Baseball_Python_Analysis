@@ -16,7 +16,7 @@ This project explores the relationship between **age and player performance in M
 - Ran **linear regression models** on:
   - **Batting stats:** HRs, RBIs, Hits  
   - **Pitching stats:** ERA, Wins/Losses, Strikeouts  
-  - **Salary data:** Height, Weight, Salary
+  - **Salary/Personal data:** Height, Weight, Salary
 
 ## Key Findings
 
