@@ -1,10 +1,29 @@
-## Data Analysis Project: Age Impact on Baseball Performance
+## Let’s Talk About Baseball: Age vs. Performance
 
-*Objective:* Investigated how age affects player performance (batting, pitching, salary) using statistical modeling and predictive analytics.<br><br>
-*Data Processing:* Cleaned and merged baseball datasets (player stats, salaries, demographics) in R and PySpark, handling missing values.<br><br>
-*Analysis:* Performed exploratory data analysis (EDA) and linear regression (70/30 train-test split) to evaluate age’s impact on key metrics (RBI, ERA, salary).<br><br>
-<br><br>
-*Findings:*
-Performance peaks in late 20s/early 30s, then declines (bell-curve trend).
-Salary trends were irregular, with spikes near retirement due to contract structures.
-Linear models showed low predictive accuracy, suggesting non-linear models (e.g., polynomial regression) for better results.
+**Project Summary**
+
+This project explores the relationship between age and player performance in Major League Baseball using a cleaned and curated version of a public MLB dataset. We focused on batting, pitching, and salary stats to evaluate how performance changes as players age.
+
+**Goal**
+
+To answer:
+*Does age significantly impact a player’s performance, and what model best captures that trend?*
+
+**Tools & Methods**
+	•	Data cleaning in R, modeling in PySpark
+	•	Used a **70/30 train-test** split
+	•	Ran linear regression models on:
+	•	**Batting stats:** HRs, RBIs, Hits
+	•	**Pitching stats:** ERA, Wins/Losses, Strikeouts
+	•	**Salary data:** Height, Weight, Salary
+
+**Key Findings**
+	•	Performance typically **peaks between ages 27–32**.
+	•	Salary data shows irregular spikes, often near retirement
+	•	**Linear models had low predictive accuracy** (low R², high RMSE)
+	•	Data suggests a **non-linear (bell-curve) pattern** may model age-performance better
+
+**Conclusion**
+
+Age alone isn’t a strong linear predictor of performance, but analyzing it with other variables can yield deeper insights. Future work should explore non-linear models to better reflect real-world performance trends in baseball.
+) for better results.
