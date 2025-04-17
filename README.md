@@ -1,8 +1,8 @@
-## Let’s Talk About Baseball: Age vs. Performance.
+## Let’s Talk About Baseball: Age vs. Performance
 
 **Project Summary**
 
-This project explores the relationship between age and player performance in Major League Baseball using a cleaned and curated version of a public MLB dataset. We focused on batting, pitching, and salary stats to evaluate how performance changes as players age.
+This project explores the *relationship between age and player performance* in Major League Baseball using a cleaned and curated version of a public MLB dataset. We focused on *batting, pitching, and salary stats* to evaluate how performance changes as players age.
 
 **Goal**<br>
 *To answer:*
@@ -12,9 +12,9 @@ This project explores the relationship between age and player performance in Maj
 <br>	**•** Data cleaning in R, modeling in PySpark
 <br>	**•** Used a **70/30 train-test** split      
   *Ran linear regression models on:*
-<br>	•	**Batting stats:** HRs, RBIs, Hits
-<br>	•	**Pitching stats:** ERA, Wins/Losses, Strikeouts
-<br>	•	**Salary data:** Height, Weight, Salary
+<br>	**Batting stats:** HRs, RBIs, Hits
+<br>	**Pitching stats:** ERA, Wins/Losses, Strikeouts
+<br>	**Salary data:** Height, Weight, Salary
 
 **Key Findings**
 <br>	**•** Performance typically **speaks between ages 27–32.** 
