@@ -5,7 +5,6 @@
 This project explores the relationship between age and player performance in Major League Baseball using a cleaned and curated version of a public MLB dataset. We focused on batting, pitching, and salary stats to evaluate how performance changes as players age.
 
 **Goal**
-<br>
 To answer:
 *Does age significantly impact a player’s performance, and what model best captures that trend?*
 
@@ -17,12 +16,12 @@ To answer:
 <br>	•	**Batting stats:** HRs, RBIs, Hits<br>
 <br>	•	**Pitching stats:** ERA, Wins/Losses, Strikeouts<br>
 <br>	•	**Salary data:** Height, Weight, Salary<br>
-<br>
+
 **Key Findings**
-<br>	**•	Performance typically **speaks between ages 27–32.** <br>
-<br>	**•	Salary data shows irregular spikes, often near retirement <br>
-<br>	**•	**Linear models had low predictive accuracy** (low R², high RMSE)<br>
-<br>	**•	Data suggests a **non-linear (bell-curve) pattern** may model age-performance better<br>
+<br>	**•** Performance typically **speaks between ages 27–32.** <br>
+<br>	**•** Salary data shows irregular spikes, often near retirement <br>
+<br>	**•**	**Linear models had low predictive accuracy** (low R², high RMSE)<br>
+<br>	**•**	Data suggests a **non-linear (bell-curve) pattern** may model age-performance better<br>
 
 **Conclusion**
 
