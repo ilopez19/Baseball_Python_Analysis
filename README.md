@@ -10,15 +10,13 @@ This project explores the relationship between age and player performance in Maj
 
 **Tools & Methods**
 <br>	**•** Data cleaning in R, modeling in PySpark
-<br>	**•** Used a **70/30 train-test** split
-
-*Ran linear regression models on:*
+<br>	**•** Used a **70/30 train-test** split      
+  *Ran linear regression models on:*
 <br>	•	**Batting stats:** HRs, RBIs, Hits
 <br>	•	**Pitching stats:** ERA, Wins/Losses, Strikeouts
 <br>	•	**Salary data:** Height, Weight, Salary
 
 **Key Findings**
-
 <br>	**•** Performance typically **speaks between ages 27–32.** 
 <br>	**•** Salary data shows irregular spikes, often near retirement
 <br>	**•**	**Linear models had low predictive accuracy** (low R², high RMSE)
