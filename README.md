@@ -28,3 +28,7 @@ This project explores the relationship between **age and player performance in M
 ## Conclusion
 
 Age alone isn't a strong linear predictor of performance, but analyzing it with other variables can yield deeper insights. Future work should explore **non-linear models** to better reflect real-world performance trends in baseball.
+
+## Repository Contents
+
+You can find the **full paper**, **data scripts**, and **modeling notebooks** in this repository.
